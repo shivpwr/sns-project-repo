@@ -152,7 +152,7 @@ create an index.html file in same location where app.js is placed.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SNS project by AWS Avinash Reddy</title>
+  <title>SNS project by AWS Shivpal Rabde</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -234,7 +234,7 @@ create an index.html file in same location where app.js is placed.
   </form>
 
   <footer>
-    A project by Avinash Reddy
+    A project by Shivpal Rabde
   </footer>
 
   <script>
